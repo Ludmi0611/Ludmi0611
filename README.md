@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Ludmila Sanchez 👋</h1>
-<h2 align="center">Data Analyst 📊</h2>
+<h2 align="center">Data Analyst from Argentina 📊</h2>
 
-<h2>About Me</h2>
+<h2>About Me 💡</h2>
 Welcome to my GitHub profile! I'm passionate about data analysis and always seeking opportunities to apply my skills and knowledge in projects that make a real impact.
 
 I'm currently completing my studies as a Software Developer while pursuing a self-taught specialization in Data Science. Along the way, I have gained a solid foundation in statistics, mathematics, and programming, which has enabled me to tackle challenges involving data collection, cleaning, and analysis.
@@ -26,7 +26,7 @@ With a constant focus on learning and adapting to new technologies, my goal is t
 ![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge) ![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge) ![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge) ![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge) ![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)
 
 <hr>
-<h2>Technology</h2>
+<h2>Technology 💻</h2>
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
